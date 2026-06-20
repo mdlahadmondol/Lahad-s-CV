@@ -1,0 +1,34 @@
+.header{
+    background: #1a5276;
+    color: white;
+}
+.carrier h3{
+    background: #1a5276;
+    color: white;
+}
+.qualification{
+    background: #d6e4f0;
+}
+
+    .language-table th{
+        background:#0f5578;
+        color:#fff;
+        font-size: 18px;
+        
+       
+    }
+    .language-table td{
+        font-size:18px;
+        color:#333;
+    }
+@media(max-width: 768px){
+    .language-table th{
+        font-size: 15px;
+    }
+    .language-table td{
+        font-size: 15px;
+    }
+}
+    
+
+    
